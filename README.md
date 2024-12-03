@@ -1,0 +1,1 @@
+# lab-Azure-Cognitive-Search
